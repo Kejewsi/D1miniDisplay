@@ -5,7 +5,7 @@ My first project using ESP2866.
 
 Connect ST7789 display to the Wemos D1 mini board throug these pins:
 
-TFT  ->  WEMOS D1 MINI
+TFT  ->  WEMOS D1 MINI:
 GDN  ->  GDN,
 VCC  ->  5V,
 SCL  ->  D5,
